@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  font-family: sans-serif;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: table !important;
+  height: 100hv;
+}
+
+div label {
+  color: white;
+}
+
+/*.login-box{
+    width: 500px;
+    height: 250px;
+    background: rgb(255, 255, 255);
+    color: #000;
+    top: 60%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 20px 30px;
+}*/
+.col-sm-2 col-form-label {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  display: block;
+}
+
+/*# sourceMappingURL=login.css.map */

@@ -1,0 +1,54 @@
+body {
+    background: #25455e !important; 
+    color: #fffefe !important;
+    font-family: Arial, san-serif !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: table !important;
+  }
+  
+  *:focus {
+    outline: none !important;
+  }
+  
+  .formulario:first-child div {
+    width: 90%;
+    margin: 0 auto !important;
+    text-align: center !important;
+  }
+  
+  .formulario:first-child div fieldset div {
+    margin-top: 15px !important;
+  }
+  
+  .formulario:first-child div fieldset input, .formulario:first-child div fieldset textarea {
+    border: 1px #00bcd4 solid !important;
+    border-radius: 5px !important;
+    padding: 6px !important;
+    background: rgba(0, 0, 0, 0.1) !important;
+    color: #00bcd4 !important;
+  }
+  
+  .formulario:first-child div fieldset input:focus, .formulario:first-child div fieldset textarea:focus {
+    background: white !important;
+    color: black !important;
+  }
+  
+  .formulario:first-child div fieldset .submit {
+    text-decoration: none !important;
+    padding: 12px !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    color: #ffffff !important;
+    background-color: #00BCD4 !important;
+    border-radius: 20px !important;
+    border: 2px solid #2196F3 !important;
+    transition: all 1s ease !important;
+    -webkit-transition: all 1s ease !important;
+  }
+  
+  .formulario:first-child div fieldset .submit:hover {
+    color: #2196F3 !important;
+    background-color: #ffffff !important;
+    cursor:pointer !important;
+  }

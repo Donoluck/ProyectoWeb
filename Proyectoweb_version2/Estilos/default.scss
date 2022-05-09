@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+$fuente-normal: 1em;
+$fuente-pequena: 0.8em;
+$fuente-grande: 1.4em;
+
+$tipografia-general: arial, verdana, sans-serif;
+$tipografia-alternativa: 'Times New Roman', Times, serif;
+
+$espaciado-estandar: 10px;
+$espaciado-doble: 20px;
+
+h1{
+    font-family: $tipografia-general;
+    font-size: $fuente-grande;
+}
+
+p{
+    font-family: $tipografia-alternativa;
+    font-size: $fuente-normal;
+}

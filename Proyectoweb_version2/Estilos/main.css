@@ -1,0 +1,19 @@
+header {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: table !important;
+  margin-bottom: 100px !important;
+}
+
+body {
+  background-color: #25455e !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: table !important;
+}
+
+#titulo_inicial {
+  color: white;
+}
+
+/*# sourceMappingURL=main.css.map */
